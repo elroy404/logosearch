@@ -1,0 +1,90 @@
+*{
+  box-sizing: border-box;
+}
+
+#program-search{
+  width: 100%;
+  height: auto;
+  padding-top: 8em;
+}
+
+#search-container{
+  width: 820px;
+  height: 15em;
+  margin: 0 auto;
+  background-color: #EEEEEE;
+  padding-top: 90px;
+}
+
+/*.dropdown-title{
+  float: left;
+}*/
+
+#program-type{
+  width: 50%;
+  float: left;
+}
+
+#program-type button, #program-type ul{
+  width: 95%;
+  margin-left: 2.5%;
+  text-transform: uppercase;
+  text-align: left;
+}
+
+#education-level{
+  width: 50%;
+  float: left;
+}
+
+#education-level button, #education-level ul{
+  width: 95%;
+  margin-left: 2.5%;
+  text-transform: uppercase;
+  text-align: left;
+}
+
+.caret{
+  float: right;
+  margin-top: .5em;
+}
+
+#search-button{
+  width: 100%;
+  height: auto;
+  float: left;
+  margin-top: 1em;
+}
+
+#search-button button{
+  background-color: #BF360C;
+  color: #FAFAFA;
+  width: 10em;
+  height: auto;
+  border-radius: 0;
+  margin: 0 41.4%;
+  text-transform: uppercase;
+}
+
+#block-container{
+  width: 820px;
+  height: auto;
+  margin: 0 auto;
+  padding: 45px 34px;
+}
+
+.logo-block{
+  margin: 0 auto;
+  width: 100%;
+  height: auto;
+}
+
+.bogo{
+  margin: 15px 6.5%;
+  width: 11%;
+  height: auto;
+}
+
+.aci-color{
+  display: none;
+}
